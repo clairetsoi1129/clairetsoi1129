@@ -19,5 +19,5 @@ I am a Backend Web Developer who is exploring Frontend development while facilit
  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 
 **📫 Reach me at:**<br>
-[![Linkedin: Claire Tsoi](https://img.shields.io/badge/-Claire%20Tsoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claire-tsoi-80a3b617b/)](https://www.linkedin.com/in/claire-tsoi-80a3b617b/)
+[![Linkedin: Claire Tsoi](https://img.shields.io/badge/-Claire%20Tsoi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claire-tsoi-80a3b617b/)](https://www.linkedin.com/in/claire-tsoi-80a3b617b/)
 [![GitHub: Claire Tsoi](https://img.shields.io/github/followers/clairetsoi1129?label=clairetsoi1129&style=social)](https://github.com/clairetsoi1129)
