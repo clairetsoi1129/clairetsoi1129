@@ -28,7 +28,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 
 **📫 Reach me at:**<br>
 [![Linkedin: Claire Tsoi](https://img.shields.io/badge/-Claire%20Tsoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claire-tsoi-80a3b617b/)](https://www.linkedin.com/in/claire-tsoi-80a3b617b/)
