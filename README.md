@@ -33,7 +33,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 **📫 Reach me at:**<br>
-[![Linkedin: Claire Tsoi](https://img.shields.io/badge/-claire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claire-tsoi-80a3b617b/)](https://www.linkedin.com/in/claire-tsoi-80a3b617b/)
+[![Linkedin: Claire Tsoi](https://img.shields.io/badge/-Claire%20Tsoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claire-tsoi-80a3b617b/)](https://www.linkedin.com/in/claire-tsoi-80a3b617b/)
 
 [![GitHub: Claire Tsoi](https://img.shields.io/github/followers/clairetsoi1129?label=clairetsoi1129&style=social)](https://github.com/clairetsoi1129)
 
