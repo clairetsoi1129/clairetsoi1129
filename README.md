@@ -1,33 +1,21 @@
 ### Hi there 👋 Welcome to my github.
 
-### My Tech Stack
+I am a Backend Web Developer who is exploring Frontend development while facilitating the world with User Experience with my Problem Solving Skills and Passion about programming and finance. :wink:
+ 
+ 🔭 I’m planning for a Project using MERN stack for an investment profolio dashboard.
+ 
+ 🌱 I’m currently learning 
+ <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+ <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+ <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> 
+ 
+ 💬 Ask me about any Tech-related stuff.
 
-**💼  Proficiency in :**
-#### Backend
-![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
-![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)
-
-#### Frontend
-![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
-![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)
-
-#### Database
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
-![Oracle Database](https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg)
-
-#### Others
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-![GitLab](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
-![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
-
-**🌱 Currently learning :**
-
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
-![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
-![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)
-![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)
+### Tech & Tools Preference
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=flate&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=Spring+Boot&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=FFFFFF&label="> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+ <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> <img src="http://img.shields.io/badge/-Amazon%20Web%20Services-000000?style=flat&logo=Amazon+AWS&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=FFFFFF"> 
+ <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 
 **📫 Reach me at:**<br>
 [![Linkedin: Claire Tsoi](https://img.shields.io/badge/-Claire%20Tsoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claire-tsoi-80a3b617b/)](https://www.linkedin.com/in/claire-tsoi-80a3b617b/)
