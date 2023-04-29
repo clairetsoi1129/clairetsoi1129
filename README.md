@@ -4,7 +4,7 @@
 
 **💼  Proficiency in :**
 #### Backend
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -29,7 +29,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
+![MongoDB](<img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">)
 
 **📫 Reach me at:**<br>
 [![Linkedin: Claire Tsoi](https://img.shields.io/badge/-Claire%20Tsoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claire-tsoi-80a3b617b/)](https://www.linkedin.com/in/claire-tsoi-80a3b617b/)
