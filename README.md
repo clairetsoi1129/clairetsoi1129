@@ -2,7 +2,7 @@
 
 I am a Backend Web Developer who is exploring Frontend development while facilitating the world with User Experience with my Problem Solving Skills and Passion about programming and finance. :wink:
  
- 🔭 I’m planning for a Project using MERN stack for an investment profolio dashboard.
+ 🔭 I’m planning for a Project using MERN stack for an investment portfolio dashboard.
  
  🌱 I’m currently learning 
  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
