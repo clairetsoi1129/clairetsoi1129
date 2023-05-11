@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my github.
 
-I am a Backend Web Developer who is exploring Frontend development while facilitating the world with User Experience with my Problem Solving Skills and Passion about programming and finance. :wink:
+I'm a Backend Web Developer exploring Frontend development, dedicated to enhancing User Experience. With my strong Problem Solving Skills and passion for programming and finance, I strive to create impactful digital solutions. :wink:
  
  🔭 I’m planning for a Project using MERN stack for an investment portfolio dashboard.
  
